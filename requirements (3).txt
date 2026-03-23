@@ -1,0 +1,16 @@
+gradio
+reportlab
+pdfplumber
+python-docx
+beautifulsoup4
+transformers
+torch
+torchvision
+Pillow
+ultralytics
+pytesseract
+openai-whisper
+librosa
+pydub
+soundfile
+ffmpeg-python
